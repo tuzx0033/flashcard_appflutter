@@ -1,16 +1,16 @@
 # flashcard_app
-
-A new Flutter project.
-
+Ứng dụng học tiếng anh flashcard theo phương pháp anki, đây là phương pháp mình tìm hiểu được trong sách Sức mạnh của thói quen - Charles Duhigg
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Thêm chủ đề, thêm flashcards
 
-A few resources to get you started if this is your first Flutter project:
+- Tích hợp api google gemini chat bot (đã có sẵn key, có thể thay thế key khác tuỳ mọi người) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tích hợpapi dictionary https://dictionaryapi.dev/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## hướng phát triển
+- các trò chơi liên quan đến từ vựng tiếng anh
+- bảng xếp hạng
+- chia sẽ chủ đề flashcard
+
+
