@@ -13,4 +13,6 @@
 - bảng xếp hạng
 - chia sẽ chủ đề flashcard
 
+Download API cho app tại đây: https://github.com/tuzx0033/BackEnd_Flashcard_App
+zalo: 0372583474 (add tôi nếu bạn cần sự giúp đỡ)
 
